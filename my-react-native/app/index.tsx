@@ -1,9 +1,12 @@
+import Footer from '@/components/footer';
 import Logo from '@/components/logo';
+import Menu from '@/components/menu';
 import { SafeAreaView, ScrollView, StyleSheet, Text, View } from "react-native";
 
 export default function Index() {
   return (
     <SafeAreaView style={styles.container}>
+      <Menu />
       <ScrollView> 
       <Logo />
         <View style={styles.bodyContainer}>
@@ -22,6 +25,7 @@ export default function Index() {
           </Text>
         </View>
       </ScrollView>
+      <Footer/>
     </SafeAreaView>
   );
 }
