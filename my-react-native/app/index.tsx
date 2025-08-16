@@ -37,4 +37,9 @@ const styles = StyleSheet.create({
     fontSize: 14,
     textAlign: 'center',
   },
+  bodyTitle: {
+    fontSize: 24,
+    fontWeight: "bold",
+    color: '#00cbff',
+  },
 });
