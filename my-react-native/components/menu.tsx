@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   button: {
-    // fontFamily: "SpaceMono", 
+    fontFamily: "SpaceMono", 
     fontSize: 12,
     textDecorationLine: 'none',
     color: '#00cbff',
