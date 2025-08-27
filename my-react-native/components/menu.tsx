@@ -6,19 +6,16 @@ export default function Menu() {
   return (
     <View style={styles.navContainer}>
       <Link href="/" style={styles.button} push>
-        HOW
+        HOME
       </Link>
       <Link href="/about" style={styles.button}>
         ABOUT
       </Link>
-      <Link href="/app" style={styles.button}>
+      <Link href="/form" style={styles.button}>
         FORM
       </Link>
       <Link href="/contact" style={styles.button}>
         CONTACT
-      </Link>
-      <Link href="/blog" style={styles.button}>
-        BLOG
       </Link>
     </View>
   );
@@ -33,7 +30,6 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   button: {
-    fontFamily: "SpaceMono", 
     fontSize: 12,
     textDecorationLine: 'none',
     color: '#00cbff',
