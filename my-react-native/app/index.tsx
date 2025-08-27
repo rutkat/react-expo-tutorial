@@ -44,6 +44,7 @@ const styles = StyleSheet.create({
     padding: 18,
     fontSize: 14,
     textAlign: 'center',
+    fontFamily: "SpaceMono",
   },
   bodyTitle: {
     fontSize: 24,
