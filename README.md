@@ -28,10 +28,11 @@ This comprehensive guide focuses on mobile dev coming from web dev based on toda
 
 ⚠️ Note
 ### Which Should You Choose?
-**Choose React Native if:** You have JavaScript/React experience and want to leverage existing skills for mobile development. It offers the best balance of performance, community support, and job opportunities.
-**Choose Ionic if:** You're a web developer who wants to quickly transition to mobile using familiar HTML/CSS/JS skills, or you need to target web and mobile simultaneously.
-**Choose Flutter if:** You want cutting-edge performance and don't mind learning Dart. It's Google's bet on the future of cross-platform development and shows tremendous growth potential.
-**Choose Swift if:** You're focusing exclusively on iOS development, need maximum performance, or want to build apps that deeply integrate with Apple's ecosystem.
+**Choose React Native if:** You have JavaScript/React experience and want to leverage existing skills for mobile development. It offers the best balance of performance, community support, and job opportunities.  
+**Choose Ionic if:** You're a web developer who wants to quickly transition to mobile using familiar HTML/CSS/JS skills, or you need to target web and mobile simultaneously.  
+**Choose Flutter if:** You want cutting-edge performance and don't mind learning Dart. It's Google's bet on the future of cross-platform development and shows tremendous growth potential.  
+**Choose Swift if:** You're focusing exclusively on iOS development, need maximum performance, or want to build apps that deeply integrate with Apple's ecosystem.  
+
 For beginners, React Native offers the most practical starting point due to its large community, extensive job market, and transferable JavaScript skills that remain valuable across web and mobile development.
 
 
