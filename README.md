@@ -1,6 +1,7 @@
 ## React Native Expo – Full Tutorial
 
-![Article banner] (react-native-banner.webp)
+<img src="react-native-banner.webp" alt="react native banner" width="720"/>
+
 
 ### Your Fast Track to Success
 
@@ -47,6 +48,7 @@ npx expo start
 ```
 
 Upon completion your project should look like this:
-![folder structure](folder-structure.webp)  
+<img src="folder-structure.webp" alt="folder structure" width="240"/>  
+
 
 
