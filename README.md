@@ -24,7 +24,7 @@ This comprehensive guide focuses on mobile dev coming from web dev based on toda
 
 
 
-👉 This repo is from the article I wrote here [https://runastartup.com/about-react-native-expo-full-tutorial]:(https://runastartup.com/about-react-native-expo-full-tutorial/)
+👉 This repo is from the article I wrote here [https://runastartup.com/about-react-native-expo-full-tutorial](https://runastartup.com/about-react-native-expo-full-tutorial/)
 
 ⚠️ Note
 ### Which Should You Choose?
@@ -49,6 +49,10 @@ npx expo start
 
 Upon completion your project should look like this:  
 <img src="folder-structure.webp" alt="folder structure" width="240"/>  
+
+Your app will be build into a package file and available for deployment on your account in [http://expo.dev](http://expo.dev)  
+<img src="expo-website-builds.webp" alt="Expo.dev website" width="500" />  
+
 
 
 
